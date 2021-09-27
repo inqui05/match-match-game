@@ -3,7 +3,7 @@
 - задание https://github.com/rolling-scopes-school/tasks/blob/master/tasks/match-match-game.md
 - deploy работы https://rolling-scopes-school.github.io/inqui05-JSFE2021Q1/match-match-game/match-match-game/
 
-Запусть проект на ПК:
+Запустить проект на ПК:
 1. git clone https://github.com/inqui05/match-match-game.git
 2. npm i
 3. npm run dev
