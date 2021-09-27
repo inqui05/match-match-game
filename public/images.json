@@ -1,0 +1,44 @@
+[
+  {
+    "category": "animals",
+    "images": [
+      "chicken.jpg",
+      "cow.jpg",
+      "deer.jpg",
+      "eagle.jpg",
+      "fox.jpg",
+      "hare.jpg",
+      "hummingbird.jpg",
+      "huskie.jpg",
+      "kangaroo.jpg",
+      "lion.jpg",
+      "panda.jpg",
+      "parrot.jpg",
+      "possum.jpg",
+      "puppy.jpg",
+      "roe-deer.jpg",
+      "rooster.jpg",
+      "sea-turtle.jpg",
+      "squirrel.jpg",
+      "tiger.jpg",
+      "turtle.jpg"
+    ]
+  },
+  {
+    "category": "people",
+    "images": [
+      "DiCaprio.jpg",
+      "football.jpg",
+      "golf.jpg",
+      "merkel.jpg",
+      "navaln.jpg",
+      "obama.jpg",
+      "portman.jpg",
+      "shara.jpg",
+      "shliapa.jpg",
+      "soccer.jpg",
+      "walker.jpg",
+      "williams.jpg"
+    ]
+  }
+]
